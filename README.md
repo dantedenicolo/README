@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Rick and Morty](https://dantedenicolo.github.io/rickandmorty)
 
-- 🌱 I’m currently learning **React and NodeJS**
+- 🌱 I’m currently learning **React and NodeJS** in [SoyHenry](https://soyhenry.com/)
 
 - 💬 Ask me about **HTML, CSS, JS, React, PHP, Flask, Python, Django, PostgreSQL**
 
