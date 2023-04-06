@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dante</h1>
 <h3 align="center">A passionate Full Stack Dev from Argentina</h3>
 
-- 🔭 I’m currently working on **[Rick and Morty](https://dantedenicolo.github.io/rickandmorty)**
+- 🔭 I’m currently working on **[Rick and Morty](https://rickandmortydeploy.vercel.app/))**
 
 - 🌱 I’m currently learning **React and NodeJS** in **[SoyHenry](https://soyhenry.com/)**
 
