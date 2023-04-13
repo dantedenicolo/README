@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, React, PHP, Flask, Python, Django, PostgreSQL**
 
-- 📫 How to reach me **denicolodante@gmail.com**
+- 📫 How to reach me **contact@dantu.me**
 
 - 🧑‍💻 Check my portfolio here: **[https://dantu.me/](https://dantu.me/)**
 
