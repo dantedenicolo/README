@@ -7,7 +7,7 @@
 
 - 👨‍💻 Check my portfolio here: [https://dantu.me/](https://dantu.me/)
 
-- 📫 How to reach me **contact@dantu.me**
+- 📫 You can contact me at **contact@dantu.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
