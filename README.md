@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" style="border-radius:9999px" src="https://avatars.githubusercontent.com/u/44928090?v=4" src="https://avatars.githubusercontent.com/u/44928090?v=4" />
+   <img align="center" width="200" src="https://imgur.com/6JStFM2.png" alt="dante" />
    <h3 align="center">Hi, I'm Dante 👋!</h3>
 </p>
 
@@ -14,7 +14,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dantedenicolo" height="28px" width="28px" />
   </a>
 </p>
-<p align="center" style="font-weight:bold;font-size:18px">Tech Stack:</p>
+<h4 align="center" style="font-weight:bold;font-size:18px">Tech Stack:</h4>
 <p align="center">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg" alt="Bootstrap" height="28px" width="28px" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="css3" height="28px" width="28px" />
