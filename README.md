@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://imgur.com/6JStFM2.png" alt="dante" />
+   <img align="center" width="200" src="https://imgur.com/B9JTk46.png" alt="dante" />
    <h3 align="center">Hi, I'm Dante 👋!</h3>
 </p>
 
