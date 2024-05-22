@@ -5,7 +5,7 @@
 
 <p align="center">A <strong>Full Stack Web Developer</strong> from Argentina.</p>
 <p align="center">Highly skilled Full Stack Web Developer with experience in MERN stack development and leading teams, focused on user experience and performance optimization. Fluent English and Spanish, with exceptional communication and leadership skills which enable effective task coordination and cross-functional team collaboration.</p>
-<p align="center"><a href="https://dantu.me/">dantu.me</a></p>
+<p align="center"><a href="https://dantu.dev/">dantu.dev</a></p>
 <p align="center">Connect with me 👇</p>
 <p align="center">
   <a href="https://linkedin.com/in/dantedenicolo" target="blank">
